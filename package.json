@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/intesso/url-breadcrumb#readme",
   "devDependencies": {
-    "object-equal": "^1.0.0",
     "tape": "^4.5.1"
   }
 }

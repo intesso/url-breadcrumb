@@ -1,5 +1,4 @@
 var test = require('tape');
-var objectEqual = require('object-equal');
 var breadcrumb = require('./index');
 
 test('should return one element', function(t){
